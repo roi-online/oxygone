@@ -33,7 +33,7 @@ var cookieInfoText = ["Expiration", "Domain", "Controller"];
 
 var bannerShowingDelayed = 0;
 
-var websiteLogo = "https://daniasigns.com/wp-content/uploads/2025/01/DaniaSigns.png";
+var websiteLogo = "https://www.oxygone.dk/wp-content/uploads/2025/03/oxygone_logo-64x19.png";
 
 var logoWidth = "200px";
 
